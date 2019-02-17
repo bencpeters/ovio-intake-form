@@ -199,7 +199,7 @@ FIELD_MAP = {
     "Are you interested in mentoring?": _checkbox_to_bool("mentor"),
     "What role would you be most interested in playing?":
         lambda d: _filter_in_list(_get_list("roles[]")(d), VALID_ROLES),
-    "What type of volunteering are you interested in?":
+    "volunteering_type":
         lambda d: _filter_in_list(_get_list("types[]")(d), VALID_TYPES),
     "other_roles":
         lambda d: _list_to_string(_filter_not_in_list(_get_list("roles[]")(d), VALID_ROLES)),
