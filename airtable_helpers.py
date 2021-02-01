@@ -188,8 +188,8 @@ CAUSES_MAP = {
     "Climate Action": "13. Climate Action",
     "Life below Water": "14. Life below Water",
     "Life on Land": "15. Life on Land",
-    "Peace, Justice, & Strong Institutions": "16: Peace, Justice and Strong Institutions",
-    "Partnerships to Achieve the Goal": "17: Partnerships to achieve the Goal",
+    "Peace, Justice, & Strong Institutions": "16. Peace, Justice and Strong Institutions",
+    "Partnerships to Achieve the Goal": "17. Partnerships to achieve the Goal",
 }
 
 
